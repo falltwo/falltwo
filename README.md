@@ -17,7 +17,7 @@
 <!-- ░░░ typing animation title ░░░ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=B86B4B&center=true&vCenter=true&width=620&lines=AI+%2F+Multi-Agent+Systems+Engineer;Building+agent+orchestration+%26+governance;LLM+routing%2C+harnesses%2C+automation" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=B86B4B&center=true&vCenter=true&width=620&lines=Building+multi-agent+systems;Agent+orchestration+%26+governance;LLM+routing%2C+harnesses%2C+automation" alt="typing" />
   </a>
 </div>
 
@@ -59,15 +59,6 @@ collaborate and stay governable, not just one-off calls.
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falltwo&layout=compact&hide_border=true&title_color=B86B4B&text_color=8A7A6D&bg_color=00000000&langs_count=8" alt="top-langs" />
-</div>
-
-<br/>
-
-<!-- ░░░ trophies (warm gruvbox theme) ░░░ -->
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=falltwo&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies" />
 </div>
 
 <br/>
