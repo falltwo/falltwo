@@ -38,7 +38,7 @@ collaborate and stay governable, not just one-off calls.
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider_strip.jpg" width="100%" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/strip5.jpg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -55,7 +55,7 @@ collaborate and stay governable, not just one-off calls.
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider_strip.jpg" width="100%" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/strip6.jpg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -75,7 +75,7 @@ collaborate and stay governable, not just one-off calls.
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider_strip.jpg" width="100%" alt="divider"/>
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/strip7.jpg" width="100%" alt="divider"/>
 </div>
 
 <br/>
@@ -94,5 +94,5 @@ collaborate and stay governable, not just one-off calls.
 
 <!-- ░░░ footer (photo) ░░░ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider.jpg" width="100%" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/footer8.jpg" width="100%" alt="footer"/>
 </div>
