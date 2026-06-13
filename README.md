@@ -11,7 +11,7 @@
 
 <!-- ░░░ header banner (warm waving gradient) ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6D3,100:D9A066&height=210&section=header&text=falltwo&fontSize=48&fontColor=5C4A3A&fontAlignY=36&desc=multi-agent%20systems%20%C2%B7%20orchestration%20%26%20governance&descSize=16&descAlignY=55&descColor=7A6A5D" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6D3,100:D9A066&height=160&section=header&text=&fontColor=5C4A3A" width="100%" alt="header"/>
 </div>
 
 <!-- ░░░ typing animation title ░░░ -->
@@ -53,12 +53,12 @@ collaborate and stay governable, not just one-off calls.
 ### 📊 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=falltwo&show_icons=true&hide_border=false&border_color=EADBC8&title_color=B86B4B&icon_color=C2855B&text_color=8A7A6D&bg_color=FBF4EA" alt="stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=falltwo&hide_border=false&border=EADBC8&background=FBF4EA&stroke=EADBC8&ring=B86B4B&fire=C26B4A&currStreakLabel=B86B4B&sideLabels=8A7A6D&dates=A89A8C&currStreakNum=5C4A3A&sideNums=5C4A3A&dayLabels=8A7A6D" alt="streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=falltwo&show_icons=true&hide_border=true&title_color=B86B4B&icon_color=D9A066&text_color=8A7A6D&bg_color=00000000" alt="stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=falltwo&hide_border=true&background=00000000&stroke=E8DDD3&ring=B86B4B&fire=C26B4A&currStreakLabel=B86B4B&sideLabels=8A7A6D&dates=A89A8C&currStreakNum=5C4A3A&sideNums=5C4A3A&dayLabels=8A7A6D" alt="streak" />
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falltwo&layout=compact&hide_border=false&border_color=EADBC8&title_color=B86B4B&text_color=8A7A6D&bg_color=FBF4EA&langs_count=8" alt="top-langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falltwo&layout=compact&hide_border=true&title_color=B86B4B&text_color=8A7A6D&bg_color=00000000&langs_count=8" alt="top-langs" />
 </div>
 
 <br/>
@@ -77,5 +77,5 @@ collaborate and stay governable, not just one-off calls.
 
 <!-- ░░░ footer ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A066,100:F5E6D3&height=150&section=footer&text=thanks%20for%20scrolling&fontSize=18&fontColor=5C4A3A&fontAlignY=72&descColor=7A6A5D" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A066,100:F5E6D3&height=120&section=footer" width="100%" alt="footer"/>
 </div>
