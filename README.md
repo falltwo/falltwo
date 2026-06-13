@@ -37,15 +37,26 @@ collaborate and stay governable, not just one-off calls.
 
 <br/>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider_strip.jpg" width="100%" alt="divider"/>
+</div>
+
+<br/>
+
 <!-- ░░░ tech stack badges (uniform flat-square, restrained) ░░░ -->
 ### 🛠 Tech stack
 
-![C](https://img.shields.io/badge/C-3B6B4B?style=flat-square&logo=c&logoColor=D9A066)
-![Python](https://img.shields.io/badge/Python-3B6B4B?style=flat-square&logo=python&logoColor=D9A066)
-![TypeScript](https://img.shields.io/badge/TypeScript-3B6B4B?style=flat-square&logo=typescript&logoColor=D9A066)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-3B6B4B?style=flat-square&logo=litellm&logoColor=D9A066)
-![Docker](https://img.shields.io/badge/Docker-3B6B4B?style=flat-square&logo=docker&logoColor=D9A066)
-![Git](https://img.shields.io/badge/Git-3B6B4B?style=flat-square&logo=git&logoColor=D9A066)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,ts,docker,git&theme=light" alt="tech stack" />
+  <br/>
+  <sub><i>+ LiteLLM for the model layer</i></sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider_strip.jpg" width="100%" alt="divider"/>
+</div>
 
 <br/>
 
@@ -59,6 +70,12 @@ collaborate and stay governable, not just one-off calls.
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falltwo&layout=compact&hide_border=true&title_color=B86B4B&text_color=8A7A6D&bg_color=00000000&langs_count=8" alt="top-langs" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider_strip.jpg" width="100%" alt="divider"/>
 </div>
 
 <br/>
