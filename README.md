@@ -9,9 +9,9 @@
 ═══════════════════════════════════════════════════════════════
 -->
 
-<!-- ░░░ header banner (warm waving gradient) ░░░ -->
+<!-- ░░░ header banner (photo) ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5E6D3,100:D9A066&height=160&section=header&text=&fontColor=5C4A3A" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/banner.jpg" width="100%" alt="header"/>
 </div>
 
 <!-- ░░░ typing animation title ░░░ -->
@@ -75,7 +75,7 @@ collaborate and stay governable, not just one-off calls.
 
 <br/>
 
-<!-- ░░░ footer ░░░ -->
+<!-- ░░░ footer (photo) ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9A066,100:F5E6D3&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://raw.githubusercontent.com/falltwo/falltwo/main/assets/divider.jpg" width="100%" alt="footer"/>
 </div>
